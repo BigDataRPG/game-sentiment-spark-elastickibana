@@ -1,0 +1,9 @@
+*~
+.*~
+.idea/
+src/main/resources/output/
+src/main/scala/LearningScalagit/
+src/main/scala/spark_read_file/
+src/main/scala/Boyd/packt/ScalaML/BitCoin/
+src/main/resources/input/stanford-english-corenlp-2018-02-27-models.jar
+target/
